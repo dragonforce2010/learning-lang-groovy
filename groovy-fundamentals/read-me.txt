@@ -1,0 +1,2 @@
+The links to install the plugin are now on https://github.com/groovy/groovy-eclipse/wiki
+Eclipse version for Windows is Version: Mars.2 Release (4.5.2) please use http://dist.springsource.org/snapshot/GRECLIPSE/e4.5/

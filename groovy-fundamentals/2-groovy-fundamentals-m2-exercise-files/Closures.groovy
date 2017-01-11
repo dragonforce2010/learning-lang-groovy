@@ -1,0 +1,1 @@
+(1..10).findAll({ it%2==0 }).each({ println "In a closure: $it" })
